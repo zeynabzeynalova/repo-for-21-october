@@ -7,10 +7,16 @@ img, iframe{
 }
 .A{
     color: blue;
-}
-.B{
+   }
+ 
+   #B{
     color: red;
-}
-.B{
+ }
+ 
+ #C{
     color: green;
-}
+ }
+ 
+ /* FOR H1 DECARATION */
+ 
+ 
