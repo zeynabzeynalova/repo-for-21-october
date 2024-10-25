@@ -5,14 +5,12 @@ img, iframe{
     width: 50%;
     height: 500px;
 }
-#01
-{
+.p01{
     color: blue;
 }
-#02
-{
+.p02{
     color: red;
 }
-#03{
+.p03{
     color: green;
 }
