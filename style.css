@@ -1,22 +1,16 @@
-*{
+* {
     text-decoration: underline;
 }
-img, iframe{
+img, iframe {
     width: 50%;
     height: 500px;
 }
-.A{
+.A {
     color: blue;
-   }
- 
-   #B{
+}
+#B {
     color: red;
-   }
- 
- #C{
+}
+#C {
     color: green;
- }
- 
- /* FOR H1 DECARATION */
- 
- 
+}
